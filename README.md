@@ -2,7 +2,7 @@
 
 - What’s the role of a firewall in managing services?
   
-A firewall like UFW acts as a network gatekeeper that controls incoming and outgoing traffic based on specific rules, ensuring only intentional ports (like port 80 for web traffic) are accessible while blocking unauthorized service scans and connections.
+A firewall like UFW acts as a network gatekeeper that controls incoming and outgoing traffic based on specific rules, ensuring only intentional ports are accessible while blocking unauthorized service scans and connections.
 
 - How did SSH access deepen your understanding of Linux as a server?
   
